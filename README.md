@@ -1,6 +1,5 @@
 # 📄 GOODLUCK-O-PETERS
-
-**📞** +90 542 857 0133 | **📧** petersgoodluck64@gmail.com
+ | **📧** petersgoodluck64@gmail.com
 
 ---
 
