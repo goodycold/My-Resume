@@ -83,5 +83,7 @@ _Girne American University, Cyprus_
 
 - ISC² Certified in Cybersecurity  
 - APIsec Certified Practitioner (ACP)
+- Certified Network Security Practitioner
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
 
 
