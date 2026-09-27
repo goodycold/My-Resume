@@ -24,5 +24,5 @@ Diploma in Cybersecurity Austin, Texas, USA (Online/Remote Programme) July 2025 
 - APIsec Certified Practitioner (ACP)
 - Certified Network Security Practitioner
 - Oracle Cloud Infrastructure 2025 Certified Foundations Associate
-- Certified Api Security Analyst 
+- Certified API Security Analyst (CASA)
 
